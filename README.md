@@ -1,0 +1,2 @@
+# Identifying key cell states from scRNA-seq data and analyzing scATAC-seq Data
+This repository contains two beginner-friendly Jupyter Notebook tutorials for students learning single-cell data analysis. The tutorials cover practical workflows for using Scissor to identify phenotype-associated cell populations from scRNA-seq data, and Signac to analyze PBMC scATAC-seq data, including quality control, dimensionality reduction, clustering, gene activity analysis, cell type annotation, and differential chromatin accessibility analysis.
